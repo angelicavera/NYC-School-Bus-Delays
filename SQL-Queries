@@ -1,0 +1,10 @@
+SELECT School_Year, Busbreakdown_ID, Run_Type, Route_Number, Reason, Schools_Serviced, 
+Occurred_On, Created_On, Boro, How_Long_Delayed AS Delay, Bus_Company_Name,
+Number_Of_Students_On_The_Bus AS Students, Breakdown_or_Running_Late,
+School_Age_or_PreK 
+FROM Bus_Breakdown_and_Delays bbad 
+WHERE School_Year IN("2019=2020","2020-2021","2021-2022","2022-2023","2023-2024")
+
+SELECT COUNT(Busbreakdown_ID)
+FROM Bus_Breakdown_and_Delays
+WHERE School_Year = "2023-2024"
