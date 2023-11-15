@@ -11,13 +11,11 @@ School bus delays have become a pressing concern for parents, schools, and the D
 - Boro Transit Inc. and Pride Transportation have significantly higher rates of mechanical delays compared to other companies. They had 449 and 385 mechanical delays, respectively, which is over twice as many as any other company.
 
 ## Recommendations
-Based on these insights, the following recommendations are proposed:
 - Optimize bus routes with frequent delays, with priority for morning routes, and explore innovative solutions like real-time traffic monitoring.
 - Communicate with unreliable contractors about repeated issues, consider alternative companies, and ensure regular maintenance.
 - Depending on the DOE’s priorities, addressing the delays could start with all boroughs at a time by looking at the top 3 delayed routes or the borough with the most delays, Brooklyn.
 
 ## Areas of Concern for Future Analysis
-Other areas of concern for future analysis include:
 - Clarify the "Other" reason for delays through surveys and include extra space for specifying reasons in future reports.
 - This dataset is regularly updated, it would be ideal to conduct regular check-ups to identify emerging trends and challenges as well as check the progress of suggested solutions.
 
